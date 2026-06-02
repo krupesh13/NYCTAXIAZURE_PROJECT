@@ -203,23 +203,7 @@ Follow these steps to run the project:
 
 ---
 
-## 📈 **Conclusion**
 
-This project shows how you can build an end-to-end data engineering solution using **Azure tools**. It covers everything from **ingesting data** to **transforming** it and saving it securely for analysis.
-
-Feel free to clone this project and try it on your own. Let me know if you have any questions or suggestions! 😃
-
----
-
-## 🧺 **Next Steps**
-
-- Add more transformations in Databricks.
-- Use **Power BI** or **Synapse Analytics** to visualize the data.
-- Automate pipelines further using triggers.
-
----
-
-I hope this makes it crystal clear! Let me know if you want any changes or additions. 😊
 
 
 
